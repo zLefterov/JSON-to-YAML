@@ -1,0 +1,14 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "isStudent": false,
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "zipCode": "12345"
+    },
+    "phoneNumbers": [
+        {"type": "home", "number": "212 555-1234"},
+        {"type": "office", "number": "646 555-4567"}
+    ]
+}

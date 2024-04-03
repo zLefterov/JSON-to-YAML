@@ -1,0 +1,12 @@
+name: Jane Doe
+age: 25
+isStudent: true
+address:
+  street: 456 Elm Street
+  city: Othertown
+  zipCode: '98765'
+phoneNumbers:
+  - type: mobile
+    number: '123 456-7890'
+  - type: office
+    number: '321 654-0987'
